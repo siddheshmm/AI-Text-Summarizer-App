@@ -4,4 +4,6 @@
 
 My project: (https://replit.com/@pentosid/AI-Text-Summarizer-App-Starter-Template?v=1)
 
+![Screenshot](https://github.com/siddheshmm/AI-Text-Summarizer-App/blob/1dc0234d4ac01312a9d4032e274bc15a34c2931b/public/images/Screenshot%202024-11-05%20171634.png)
+
 #PostmanStudent #AI #Nodejs #Express 
